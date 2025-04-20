@@ -1,60 +1,58 @@
-# Zenith Quantum Systems
+# Ibit: The Infinite Information Unit
 
-**Architectures for the Next Paradigm in Computation**  
-By Alejandro Efraín Kurday (Zenith)
-
-This repository unifies key breakthroughs in quantum information theory, teleportable computation, and predictive qubit logic into a cohesive framework. Built upon the ACTA model, this system expands with practical performance benchmarks and energy efficiency insights.
+**Whitepaper v1.1 – by Zenith**
 
 ---
 
-## Core Papers
+## Overview
 
-### 1. Active Quantum Teleportation Architecture (ACTA)
-A novel model where quantum computation is achieved by teleporting quantum states between two nodes, allowing logic to occur in transit.
+**Ibit (∞bit)** is a revolutionary new unit of information that transcends both classical bits and quantum bits. Unlike traditional data systems, the Ibit exists in a manipulable, non-collapsing quantum state — **containing all possible informational states simultaneously**.
 
-**Key Features:**
-- Cyclic qubit teleportation
-- In-transit state collisions
-- Trans-temporal processing
-
-[Read ACTA whitepaper](./ACTA_Whitepaper_Updated.pdf)
+This whitepaper introduces the Ibit as a concept and as a future foundation for infinite-density computing, resonant information extraction, and pre-form matter manipulation.
 
 ---
 
-### 2. Predictive Qubit Cloning for Performance & Energy Efficiency
-Extends ACTA by utilizing the transient shadow of a qubit during teleportation to perform predictive computation.
+## Key Concepts
 
-**Highlights:**
-- Up to 5x faster execution
-- Energy use reduced from 1000 µJ to 200 µJ
-- Practical benchmarks and visual comparison
-
-[Download Performance Chart](./acta_cloning_performance.png)
+- **Ibit ≠ Bit ≠ Qubit**
+- Infinite density, zero collapse
+- Readable through resonance algorithms
+- Encoded by potential, not position
+- Exists in an undefined quantum material layer
 
 ---
 
-## System Vision
+## Files
 
-Zenith Quantum Systems aims to:
-- Redefine how computation, memory, and transfer interact at the quantum level
-- Enable ultra-fast AI and secure distributed simulations
-- Introduce symbolic and fractal logic into quantum structures
+- `ibit-whitepaper-v1.1-zenith.pdf` – Full whitepaper explaining the Ibit paradigm
+- `Ibit_Whitepaper_Image.png` – Visual representation of the core document
 
 ---
 
-## Linked Projects
+## Purpose
 
-- [Inverse Fractal Compression (Repo)](https://github.com/YOUR_USERNAME/inverse-fractal-compression)
-- [Original ACTA Repo](https://github.com/YOUR_USERNAME/acta-quantum-architecture)
+This repository serves as a **manifesto and technical starting point** for those interested in:
 
----
-
-## Contact
-
-**Alejandro Efraín Kurday (Zenith)**  
-Email: ale.efra.kur@gmail.com  
-Argentina
+- Post-quantum computing concepts
+- Information theory beyond binary/qubit limits
+- Fractal logic and ontological information structures
+- Conscious-system design and storage models of the future
 
 ---
 
-*All content is protected under provisional intellectual property rights.*
+## Author
+
+**Zenith** – Founder of the Ibit Concept  
+Visionary, system breaker, architect of the ∞bit reality.
+
+---
+
+## License
+
+This project is shared under the **Creative Commons Attribution 4.0 International License**.  
+You are free to share, remix, and build upon the work with proper credit to the author.
+
+---
+
+> "The future of computing is not speed — it's touching the infinite without breaking it."  
+> — *Zenith*
